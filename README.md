@@ -9,6 +9,7 @@ Wouldve implemented into the app eventually.
 
 Hey if someone sees this and REALLY wants it who knows maybe someday. Wish things turned out different.
 
+(left screenshot is a MOCKUP, the top screen doesnt currently have anything going on!)
 <p float="left">
   <img src="goofymockup.png" width="400"/>
   <img src="assetspic.png" width="400"/>
