@@ -1,0 +1,7 @@
+﻿  main.c
+  C:/Users/Blurro/source/repos/3dsAppy/3dsAppy/source/main.c: In function 'main':
+C:/Users/Blurro/source/repos/3dsAppy/3dsAppy/source/main.c(610,30): warning G183B9D1E: variable 'wasDrawing' set but not used [-Wunused-but-set-variable]
+    610 |                         bool wasDrawing = false;
+        |                              ^~~~~~~~~~
+  linking 3dsAppy.elf
+  built ... 3dsAppy.3dsx

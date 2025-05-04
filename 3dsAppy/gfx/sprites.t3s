@@ -1,0 +1,6 @@
+--atlas -f RGBA -z auto
+bar.png
+keyboard1.png
+canvas.png
+canvmask.png
+layoutchat.png

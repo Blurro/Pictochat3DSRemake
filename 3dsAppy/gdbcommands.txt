@@ -1,0 +1,9 @@
+gdb commands
+
+target remote 192.168.1.101:24690
+
+b extras.c:227 - printf line before return
+or :197 - for u32* rgba_raw = (u32*)linearAlloc(sizeof(u32) * total_pixels);
+
+x/100xw rgba_raw - ONLY WHEN SCOPED ON THE LINE
+or 0x30359e00 instead of rgba_raw
