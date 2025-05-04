@@ -8,3 +8,8 @@ Included are two windows C repos (scrolling and compression examples). The compr
 Wouldve implemented into the app eventually.
 
 Hey if someone sees this and REALLY wants it who knows maybe someday. Wish things turned out different.
+
+<p float="left">
+  <img src="goofymockup.png" width="400"/>
+  <img src="assetspic.png" width="400"/>
+</p>
